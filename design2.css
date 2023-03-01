@@ -1,0 +1,111 @@
+.section1{
+    border:1px solid rgb(0, 0, 0);
+    height:100vh;
+    width: 100%;
+}
+.header{
+    border:1px solid gray;
+    height: 25vh;
+    width: 100%;
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+    background-color: gray;
+}
+.logo_element{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:4em;
+}
+.main{
+    height: 74%;
+    display: flex;
+}
+.main_container{
+    display:flex;
+}
+.button_element{
+    text-decoration:none;
+    padding:0.7em 2.2em;
+    display:block;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color:lightgrey;
+    border-radius:10px;
+    color:white;
+}
+.menu_select{
+    width:28vh;
+    border: 1px #595959 solid;
+    height:100%;
+    display: flex;
+    flex-direction: column;
+    background-color: #595959;
+}
+.top_element{
+    text-decoration: none;
+    color:black;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.low_element{
+    text-decoration: none;
+    color:rgb(0, 0, 0);
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.learn_container{
+    width:181vh;
+    border: 1px rgb(0, 0, 0) solid;
+    height:100%;
+    display: flex;
+    flex-direction: column;
+}
+.rickroll{
+    border:5px lightslategrey solid;
+    height: 20%;
+    display: flex;
+    align-items: center;
+}
+.learn_main{
+    border:5px black solid;
+    height: 80%;
+    background-color: black;
+}
+.gif_element{
+    height: 100%;
+    width: 100%;
+}
+.free_mone{
+    background-color: gray;
+    height: 100%;
+    display:flex;
+    align-items:center;
+}
+.scam{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    text-decoration: none;
+    font-weight: 100;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
+}
+.button_element_learn{
+    background-color: lightgray;
+    width: 15%;
+    height: 10%;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+}
+.button_element_learn_children{
+    color: white;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif
+}
+.very_top_element{
+    text-decoration: none;
+    color:yellow;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
